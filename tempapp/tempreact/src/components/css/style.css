@@ -1,0 +1,19 @@
+@import url("https://fonts.google.com/share?selection.family=Jost:ital,wght@1,300")
+
+* {
+    padding: 0;
+    margin: 0;
+    front-family: "Jost", sans-serif;
+    
+}
+body { 
+    background: #f3f2ef;
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+    width: 100vw;
+    font-family: "Jost", sans-serif;
+}
